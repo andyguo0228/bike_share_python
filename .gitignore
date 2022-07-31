@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+data/202106-divvy-tripdata.csv
+data/202107-divvy-tripdata.csv
+data/202108-divvy-tripdata.csv
+data/202109-divvy-tripdata.csv
+data/202110-divvy-tripdata.csv
+data/202111-divvy-tripdata.csv
+data/202112-divvy-tripdata.csv
+data/202201-divvy-tripdata.csv
+data/202202-divvy-tripdata.csv
+data/202203-divvy-tripdata.csv
+data/202204-divvy-tripdata.csv
+data/202205-divvy-tripdata.csv
