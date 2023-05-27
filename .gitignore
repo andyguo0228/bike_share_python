@@ -141,3 +141,4 @@ data/202204-divvy-tripdata.csv
 data/202205-divvy-tripdata.csv
 apple.py
 /data
+cleaned_data.csv
