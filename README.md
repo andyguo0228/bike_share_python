@@ -1,2 +1,2 @@
-# Bike Share Project in Python
-This is a redo of the bike sharing project in python to demonstrate my ability to analyze data with python and to look at the differences between R and python. 
+# Divvy Bike Share Project Remake
+This is my Divvy Bike Project Remake. I completed this project a year ago using R for my Google Data Analytics Certificate. I've learned a lot since then and wanted to see if I could improve upon my prior work as well as demonstrate my ability to analyze data and build visualizations. I'll be using Python for this project because I love pandas 🐼
